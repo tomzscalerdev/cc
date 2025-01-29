@@ -1,3 +1,9 @@
+## TBD - Unreleased
+
+------------
+ENHANCEMENTS:
+* add SourceAccount property to Pre Deployment ZSCCMacroFunctionPermissions resource to automatically store caller account ID for lambda
+
 ## 1.3.3 - 2024-08-30
 
 ------------
